@@ -1,0 +1,60 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0; 
+    background-image: url(Moonlight\ Wallpaper\ Moonlight\ Wallpaper\ Moonlight.jpg);
+    background-image: cross-fade(opacity 100%);
+}
+
+header {
+    background-color: black;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+}
+
+.perfil {
+    text-align: center;
+    margin: 20px auto;
+    max-width: 300px;
+}
+
+.perfil img {
+    border-radius: 50%;
+    width: 150px;
+    height: 150px;
+    object-fit: cover;
+}
+
+footer {
+    background-color: black;
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
+h1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-shadow: 0 0 1em red ;
+}
+
+img{
+    opacity: 100%;
+}
+
+img:hover{
+    opacity: 50%;
+}
+
+h2{
+    color: #fff;
+    text-shadow: 0 0 1em cyan;
+}
+
+p{
+    color: #fff;
+    font-style: oblique;
+}
